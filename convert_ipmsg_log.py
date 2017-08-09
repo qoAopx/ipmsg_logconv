@@ -1,6 +1,5 @@
 import sys
 import re
-import json
 
 # ヘッダ部判定文字列
 main_line = '====================================='
